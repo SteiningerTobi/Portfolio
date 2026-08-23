@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+  /* Schriftarten */
+  --font-family-base: 'Inter', Arial, sans-serif;
+  --font-family-heading: 'Inter', Arial, sans-serif;
+
+  /* Schriftgrößen */
+  --font-size-base: 1rem;
+  --font-size-small: 0.875rem;
+  --font-size-h1: clamp(2.75rem, 7vw, 6rem);
+  --font-size-h2: clamp(2rem, 4vw, 3.5rem);
+  --font-size-h3: clamp(1.4rem, 2.5vw, 2rem);
+
+  .font-press-start {
+    font-family: 'Press Start 2P', monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h2{
+    text-align: center;
+    font-size: clamp(1.8rem, 4vw, 3rem);
+    border-bottom: 8px solid rgb(var(--v-theme-primary));
+    color: rgb(var(--v-theme-primary));
+  }
+
+  h1{
+    text-align: center;
+    font-size: clamp(2rem, 4.5vw, 3.33rem);
+    color: rgb(var(--v-theme-primary));
+    margin-bottom: 0;
+    margin-block-end: 0;
+  }
+
+  h3{
+    font-size: clamp(1.5rem, 3.2vw, 2.5rem) !important;
+  }
+
+  .h4-fake{
+    font-weight: normal !important;
+    color: black;
+  }
+
+  .projectList {
+   padding-top: 2rem;
+  }
+
+  .small-heading {
+    font-size: 20pt !important;
+  }
+
+  .border-interior_pale{
+    border-left: 7px solid #d2e0ac;
+    border-bottom: 7px solid #d2e0ac;
+    padding: 15px !important;
+  }
+
+  .site-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    width: fit-content;
+    padding-bottom: 6px;
+
+    color: var(
+      --site-link-color,
+      rgb(var(--v-theme-on-surface))
+    );
+
+    font-size: clamp(0.65rem, 1.2vw, 0.85rem);
+    line-height: 1.5;
+    text-decoration: none;
+
+    border-bottom: 3px solid transparent;
+
+    transition:
+      color 150ms ease,
+      border-color 150ms ease,
+      transform 150ms ease,
+      opacity 150ms ease;
+  }
+
+  .site-link:hover {
+    color: var(
+      rgb(var(--v-theme-surface))
+    );
+
+    border-bottom-color: currentColor;
+    transform: translateY(-2px);
+  }
+
+  .site-link:active {
+    opacity: 0.75;
+    transform: translateY(0);
+  }
+
+  .site-link:focus-visible {
+    outline: 3px solid currentColor;
+    outline-offset: 5px;
+  }
+
+  .text-center{
+    text-align: center;
+  }
+
+  .no-border{
+    border: none;
+  }
+
+  .flex-center{
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    gap: 3rem;
+  }
+
+  .medium-text{
+    font-size: large;
+    font-weight: bold;
+  }
+/*  !* Sonstige Typografie *!*/
+/*  --line-height-base: 1.6;*/
+/*  --line-height-heading: 1.1;*/
+/*}*/
+
+/*!* Grundwerte der gesamten Seite *!*/
+/*html {*/
+/*  font-size: 16px;*/
+/*  scroll-behavior: smooth;*/
+/*}*/
+
+/*body,*/
+/*.v-application {*/
+/*  margin: 0;*/
+/*  font-family: var(--font-family-base);*/
+/*  font-size: var(--font-size-base);*/
+/*  line-height: var(--line-height-base);*/
+/*}*/
+
+/*!* Überschriften *!*/
+/*h1,*/
+/*h2,*/
+/*h3,*/
+/*h4,*/
+/*h5,*/
+/*h6 {*/
+/*  margin-top: 0;*/
+/*  font-family: var(--font-family-heading);*/
+/*  line-height: var(--line-height-heading);*/
+/*}*/
+
+/*h1 {*/
+/*  font-size: var(--font-size-h1);*/
+/*  font-weight: 700;*/
+/*  letter-spacing: -0.04em;*/
+/*}*/
+
+/*h2 {*/
+/*  font-size: var(--font-size-h2);*/
+/*  font-weight: 700;*/
+/*  letter-spacing: -0.025em;*/
+/*}*/
+
+/*h3 {*/
+/*  font-size: var(--font-size-h3);*/
+/*  font-weight: 600;*/
+/*}*/
+
+/*!* Normale Texte *!*/
+/*p {*/
+/*  margin-top: 0;*/
+/*  font-size: var(--font-size-base);*/
+/*}*/
+
+/*!* Formulare und Buttons übernehmen dieselbe Schrift *!*/
+/*button,*/
+/*input,*/
+/*textarea,*/
+/*select {*/
+/*  font: inherit;*/
+}
+
+

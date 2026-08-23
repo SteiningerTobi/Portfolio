@@ -1,0 +1,291 @@
+[
+  {
+    "id": "fitness",
+    "category": "Webdev",
+    "title": "Fitness",
+    "description": "Entwicklung einer webbasierten Fitness- und Kursverwaltungsplattform mit Angular und Laravel. Nutzer können Sportkurse suchen, buchen und ihre gebuchten Termine verwalten. Trainer können zusätzlich eigene Kurse und Kurstermine erstellen und verwalten. Die Anwendung wurde als Full-Stack-Projekt mit Angular und Tailwind CSS im Frontend sowie Laravel im Backend umgesetzt. Frontend und Backend kommunizieren über eine REST-API, während die Authentifizierung JWT-basiert erfolgt.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "Full-Stack",
+      "Angular",
+      "Laravel",
+      "Tailwind CSS"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/fitns1.jpg",
+        "alt": "Fitness-Anwendung – Startseite"
+      },
+      {
+        "src": "/src/images/proj_imgs/fitns2.png",
+        "alt": "Fitness-Anwendung – Kursübersicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/fitns3.png",
+        "alt": "Fitness-Anwendung – Kursdetails"
+      },
+      {
+        "src": "/src/images/proj_imgs/fitns4.png",
+        "alt": "Fitness-Anwendung – Kursverwaltung"
+      },
+      {
+        "src": "/src/images/proj_imgs/fitns5.png",
+        "alt": "Fitness-Anwendung – Buchungen"
+      },
+      {
+        "src": "/src/images/proj_imgs/fitns6.png",
+        "alt": "Fitness-Anwendung – Benutzerbereich"
+      }
+    ]
+  },
+  {
+    "id": "deskrl",
+    "category": "Webdev",
+    "title": "Deskrl",
+    "description": "Entwicklung eines MVP-Prototypen für eine webbasierte Buchungsplattform im Auftrag der Agentur Webdots. Der Prototyp wurde als Full-Stack-Projekt mit Laravel im Backend und Inertia.js mit React im Frontend umgesetzt. Die Konzeption der Datenbankstruktur sowie die Entwicklung erfolgten kollaborativ mit drei weiteren Teammitgliedern unter Verwendung von Git. Umgesetzt wurden unter anderem eine vereinfachte Buchungsfunktion, Login und Registrierung sowie eine Such- und Filterlogik für buchbare Objekte.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "Full-Stack",
+      "Laravel",
+      "React",
+      "Inertia.js",
+      "Datenmodellierung"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/deskrl1.png",
+        "alt": "Deskrl – Startseite"
+      },
+      {
+        "src": "/src/images/proj_imgs/deskrl2.png",
+        "alt": "Deskrl – Übersicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/deskrl3.png",
+        "alt": "Deskrl – Buchungsübersicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/deskrl4.png",
+        "alt": "Deskrl – Such- und Filteransicht"
+      }
+    ]
+  },
+  {
+    "id": "plantikon",
+    "category": "Webdev",
+    "title": "Plantikon",
+    "description": "Entwicklung einer Progressive Web App zur Verwaltung und Pflege von Zimmerpflanzen. Pflanzen können mithilfe KI-gestützter Bilderkennung identifiziert und anschließend in einer persönlichen Pflanzenübersicht verwaltet werden. Zusätzlich bietet die Anwendung Informationen zu Licht- und Wasserbedarf sowie einen Bewässerungsmanager. Die Single-Page Application wurde mit HTML, CSS und JavaScript umgesetzt und durch eigene Web Components modular aufgebaut. Firebase übernimmt die persistente und geräteübergreifende Speicherung der Pflanzendaten, während die Pflanzenerkennung über die API von plant.id erfolgt.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "PWA",
+      "SPA",
+      "JavaScript",
+      "Mobile Dev"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/plantikon_1.jpg",
+        "alt": "Plantikon – Pflanzenübersicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/plantikon_2.jpg",
+        "alt": "Plantikon – Pflanzendetails"
+      },
+      {
+        "src": "/src/images/proj_imgs/plantikon_3.jpg",
+        "alt": "Plantikon – Pflanzenverwaltung"
+      },
+      {
+        "src": "/src/images/proj_imgs/plantikon_4.jpg",
+        "alt": "Plantikon – Bewässerungsmanager"
+      }
+    ]
+  },
+  {
+    "id": "askoe-hagenberg",
+    "category": "Webdev",
+    "title": "ASKÖ Hagenberg",
+    "description": "Aufbau und Gestaltung eines Webauftritts für den ASKÖ-Sportverein Hagenberg mit WordPress. Neben der Konzeption und Umsetzung der Website entstanden Figma-Designs sowie Logo-Entwürfe für den Verein und seine Untersektionen. Für die technische Umsetzung wurden ein eigenes WordPress-Theme und individuelle Elementor-Elemente entwickelt und dynamische Inhalte eingebunden. Ein zentraler Fokus lag auf einer einfachen Wartbarkeit, sodass die Website auch ohne Erfahrung in der Webentwicklung vom Verein selbst weitergeführt und mit neuen Inhalten gepflegt werden kann.",
+    "links": [
+      {
+        "href": "https://www.askoe-hagenberg.at/",
+        "text": "Zur Website",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "WordPress",
+      "Webdesign",
+      "Figma",
+      "Logo Design"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/askoe_1.png",
+        "alt": "ASKÖ Hagenberg – Website"
+      },
+      {
+        "src": "/src/images/proj_imgs/askoe-2.png",
+        "alt": "ASKÖ Hagenberg – Websiteansicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/askoe-3.png",
+        "alt": "ASKÖ Hagenberg – Webdesign"
+      }
+    ]
+  },
+  {
+    "id": "xplore-it",
+    "category": "UXUI",
+    "title": "xPloreIT",
+    "description": "Konzeption und Design eines interaktiven App-Prototyps zum Kennenlernen und Entdecken von Hagenberg. Der Prototyp kombiniert eine interaktive Karte mit Raum- und Eventinformationen, einer Eventübersicht sowie einem Punktesystem. Das Konzept wurde iterativ in Figma entwickelt und anhand von Zielgruppeninterviews, Usability-Tests und einer heuristischen Evaluation untersucht und weiterentwickelt. Insgesamt entstanden vier aufeinander aufbauende Prototypen.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "UX UI",
+      "Webdesign",
+      "Figma"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/hci1.png",
+        "alt": "xPloreIT – Prototyp"
+      },
+      {
+        "src": "/src/images/proj_imgs/hci2.png",
+        "alt": "xPloreIT – App-Ansicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/hci3.png",
+        "alt": "xPloreIT – Interaktive Karte"
+      },
+      {
+        "src": "/src/images/proj_imgs/hci4.png",
+        "alt": "xPloreIT – Eventübersicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/hci5.png",
+        "alt": "xPloreIT – Prototyp"
+      },
+      {
+        "src": "/src/images/proj_imgs/hcidp-1.png",
+        "alt": "xPloreIT – Designprozess"
+      }
+    ]
+  },
+  {
+    "id": "typo3-cms",
+    "category": "Webdev",
+    "title": "TYPO3-Projekt",
+    "description": "Design und Entwicklung einer individuellen Website mit dem Content-Management-System TYPO3. Die Website dient als Präsentationsseite für einen fiktiven Buchautor und umfasst unter anderem einen News-Bereich, ein Kontaktformular sowie einen geschützten Download-Bereich für angemeldete Nutzer. Für die Umsetzung kamen Bootstrap und eigens entwickelte Mask-Elemente zum Einsatz.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "TYPO3",
+      "CMS",
+      "Webdesign"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/cms2.png",
+        "alt": "TYPO3-Projekt – Website"
+      },
+      {
+        "src": "/src/images/proj_imgs/cms3.png",
+        "alt": "TYPO3-Projekt – Websiteansicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/cms4.png",
+        "alt": "TYPO3-Projekt – Seitenansicht"
+      },
+      {
+        "src": "/src/images/proj_imgs/cms5.png",
+        "alt": "TYPO3-Projekt – Newsbereich"
+      },
+      {
+        "src": "/src/images/proj_imgs/cms6.png",
+        "alt": "TYPO3-Projekt – Kontaktbereich"
+      },
+      {
+        "src": "/src/images/proj_imgs/csm7.png",
+        "alt": "TYPO3-Projekt – Downloadbereich"
+      }
+    ]
+  },
+  {
+    "id": "cheq",
+    "category": "Webdev",
+    "title": "Cheq",
+    "description": "Entwicklung einer responsiven Webanwendung zur Verwaltung von Einkaufslisten. Die Anwendung ermöglicht es, mehrere Einkaufslisten zu erstellen und zu verwalten sowie darin enthaltene Artikel zu organisieren. Die technische Umsetzung erfolgte mit HTML5, JavaScript und CSS unter Verwendung von Bootstrap. Ergänzend wurden Use Cases modelliert und erste Wireframes mit Balsamiq erstellt.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap"
+    ],
+    "images": [
+      {
+        "src": "/src/images/proj_imgs/cheq_website.png",
+        "alt": "Cheq – Einkaufslistenverwaltung"
+      },
+      {
+        "src": "/src/images/proj_imgs/cheq_website2.png",
+        "alt": "Cheq – Webanwendung"
+      }
+    ]
+  },
+  {
+    "id": "cheapaway",
+    "category": "SEO",
+    "title": "CheapAway",
+    "description": "Entwicklung einer WordPress-Website für ein fiktives Reiseunternehmen mit Schwerpunkt auf Suchmaschinenoptimierung. Die Website wurde mit WordPress und Elementor umgesetzt, mit eigenem Content befüllt und gezielt auf Suchbegriffe wie „Billig Reisen Hagenberg“ optimiert. Die SEO-Performance wurde mithilfe von Rank Math überwacht und analysiert.",
+    "links": [
+      {
+        "href": "",
+        "text": "",
+        "icon": ""
+      }
+    ],
+    "tags": [
+      "WordPress",
+      "SEO",
+      "Content Management"
+    ],
+    "images": []
+  }
+]
