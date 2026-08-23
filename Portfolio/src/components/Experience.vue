@@ -1,35 +1,35 @@
-<script setup lang="ts">
+<!--<script setup lang="ts">-->
 
-import BulletList from "@/components/BulletList.vue";
+<!--import BulletList from "@/components/BulletList.vue";-->
 
-import experienceJson from '@/data/experience.json'
-const experienceItems =
-  experienceJson as BulletListItem[]
+<!--import experienceJson from '@/data/experience.json'-->
+<!--const experienceItems =-->
+<!--  experienceJson as BulletListItem[]-->
 
-import schoolExperienceJson from '@/data/ausbildung.json'
-const schoolExp =
-  schoolExperienceJson as BulletListItem[]
+<!--import schoolExperienceJson from '@/data/ausbildung.json'-->
+<!--const schoolExp =-->
+<!--  schoolExperienceJson as BulletListItem[]-->
 
-import type { BulletListItem } from '@/types/bulletListItem'
+<!--import type { BulletListItem } from '@/types/bulletListItem'-->
 
-</script>
+<!--</script>-->
 
-<template>
-  <BulletList
-    title="Ausbildung"
-    :items="schoolExp"
-  />
-  <v-spacer class="spacer"></v-spacer>
-  <BulletList
-    title="Berufserfahrung"
-    :items="experienceItems"
-  />
-</template>
+<!--<template>-->
+<!--  <BulletList-->
+<!--    title="Ausbildung"-->
+<!--    :items="schoolExp"-->
+<!--  />-->
+<!--  <v-spacer class="spacer"></v-spacer>-->
+<!--  <BulletList-->
+<!--    title="Berufserfahrung"-->
+<!--    :items="experienceItems"-->
+<!--  />-->
+<!--</template>-->
 
-<style scoped>
-  .spacer{
-    min-height: 4rem;
-  }
+<!--<style scoped>-->
+<!--  .spacer{-->
+<!--    min-height: 4rem;-->
+<!--  }-->
 
 
-</style>
+<!--</style>-->

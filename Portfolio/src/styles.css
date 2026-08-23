@@ -82,9 +82,7 @@
   }
 
   .site-link:hover {
-    color: var(
-      rgb(var(--v-theme-surface))
-    );
+    color: rgb(var(--v-theme-surface));
 
     border-bottom-color: currentColor;
     transform: translateY(-2px);
