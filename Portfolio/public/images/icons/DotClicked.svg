@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 174.26 174.26">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #38b14a;
+      }
+
+      .cls-2 {
+        opacity: .75;
+      }
+
+      .cls-3 {
+        opacity: .89;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-3" x="34.85" y="34.85" width="34.85" height="34.85"/>
+    <rect class="cls-1" x="69.7" y="69.7" width="34.85" height="34.85"/>
+    <rect class="cls-3" x="104.55" y="104.55" width="34.85" height="34.85"/>
+    <rect class="cls-3" y="69.7" width="34.85" height="34.85"/>
+    <rect class="cls-3" x="34.85" y="104.55" width="34.85" height="34.85"/>
+    <rect class="cls-3" x="69.7" y="139.4" width="34.85" height="34.85"/>
+    <rect class="cls-3" x="139.4" y="69.7" width="34.85" height="34.85" transform="translate(313.66 174.26) rotate(-180)"/>
+    <rect class="cls-3" x="104.55" y="34.85" width="34.85" height="34.85" transform="translate(243.96 104.55) rotate(-180)"/>
+    <rect class="cls-3" x="69.7" y="0" width="34.85" height="34.85" transform="translate(174.26 34.85) rotate(-180)"/>
+    <rect class="cls-2" x="34.85" y="139.4" width="34.85" height="34.85"/>
+    <rect class="cls-1" x="69.7" y="104.55" width="34.85" height="34.85"/>
+    <rect class="cls-1" x="104.55" y="69.7" width="34.85" height="34.85"/>
+    <rect class="cls-2" x="139.4" y="34.85" width="34.85" height="34.85"/>
+    <rect class="cls-2" y="104.55" width="34.85" height="34.85"/>
+    <rect class="cls-1" x="34.85" y="69.7" width="34.85" height="34.85"/>
+    <rect class="cls-2" y="34.85" width="34.85" height="34.85"/>
+    <rect class="cls-1" x="69.7" y="34.85" width="34.85" height="34.85"/>
+    <rect class="cls-2" x="34.85" width="34.85" height="34.85"/>
+    <rect class="cls-2" x="104.55" width="34.85" height="34.85"/>
+    <rect class="cls-2" x="139.4" y="104.55" width="34.85" height="34.85" transform="translate(313.66 243.96) rotate(-180)"/>
+    <rect class="cls-2" x="104.55" y="139.4" width="34.85" height="34.85" transform="translate(243.96 313.66) rotate(-180)"/>
+  </g>
+</svg>
