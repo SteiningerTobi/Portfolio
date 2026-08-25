@@ -6,9 +6,9 @@
     "description": "Entwicklung einer webbasierten Fitness- und Kursverwaltungsplattform mit Angular und Laravel. Nutzer können Sportkurse suchen, buchen und ihre gebuchten Termine verwalten. Trainer können zusätzlich eigene Kurse und Kurstermine erstellen und verwalten. Die Anwendung wurde als Full-Stack-Projekt mit Angular und Tailwind CSS im Frontend sowie Laravel im Backend umgesetzt. Frontend und Backend kommunizieren über eine REST-API, während die Authentifizierung JWT-basiert erfolgt.",
     "links": [
       {
-        "href": "",
-        "text": "",
-        "icon": ""
+        "href": "https://github.com/SteiningerTobi/wfa-projekt-steininger",
+        "text": "Zum GitHub Repository",
+        "icon": "github"
       }
     ],
     "tags": [
@@ -89,9 +89,9 @@
     "description": "Entwicklung einer Progressive Web App zur Verwaltung und Pflege von Zimmerpflanzen. Pflanzen können mithilfe KI-gestützter Bilderkennung identifiziert und anschließend in einer persönlichen Pflanzenübersicht verwaltet werden. Zusätzlich bietet die Anwendung Informationen zu Licht- und Wasserbedarf sowie einen Bewässerungsmanager. Die Single-Page Application wurde mit HTML, CSS und JavaScript umgesetzt und durch eigene Web Components modular aufgebaut. Firebase übernimmt die persistente und geräteübergreifende Speicherung der Pflanzendaten, während die Pflanzenerkennung über die API von plant.id erfolgt.",
     "links": [
       {
-        "href": "",
-        "text": "",
-        "icon": ""
+        "href": "https://github.com/SteiningerTobi/Plantikon",
+        "text": "Zum GitHub Repository",
+        "icon": "github"
       }
     ],
     "tags": [
@@ -203,9 +203,9 @@
     "description": "Design und Entwicklung einer individuellen Website mit dem Content-Management-System TYPO3. Die Website dient als Präsentationsseite für einen fiktiven Buchautor und umfasst unter anderem einen News-Bereich, ein Kontaktformular sowie einen geschützten Download-Bereich für angemeldete Nutzer. Für die Umsetzung kamen Bootstrap und eigens entwickelte Mask-Elemente zum Einsatz.",
     "links": [
       {
-        "href": "",
-        "text": "",
-        "icon": ""
+        "href": "https://github.com/SteiningerTobi/CMS24_Steininger",
+        "text": "Zum GitHub Repository",
+        "icon": "github"
       }
     ],
     "tags": [
@@ -247,9 +247,9 @@
     "description": "Entwicklung einer responsiven Webanwendung zur Verwaltung von Einkaufslisten. Die Anwendung ermöglicht es, mehrere Einkaufslisten zu erstellen und zu verwalten sowie darin enthaltene Artikel zu organisieren. Die technische Umsetzung erfolgte mit HTML5, JavaScript und CSS unter Verwendung von Bootstrap. Ergänzend wurden Use Cases modelliert und erste Wireframes mit Balsamiq erstellt.",
     "links": [
       {
-        "href": "",
-        "text": "",
-        "icon": ""
+        "href": "https://github.com/SteiningerTobi/WEB24-Cheq",
+        "text": "Zum GitHub Repository",
+        "icon": "github"
       }
     ],
     "tags": [
